@@ -2,7 +2,7 @@
 
 pragma solidity >= 0.5.0 < 0.9.0;
 
-contract BasicSyntax {
+contract Visibility {
 
            function setValue() public { // use within the contract and outside the contract
                 
