@@ -2,7 +2,7 @@
 
 pragma solidity >= 0.5.0 < 0.9.0;
 
-contract Assign_ReferenceMemory_to_ReferenceStorage{
+contract Assign_ReferenceStorage_to_ReferenceStorage{
 
     int[2] num = [int(4), 6];
 
